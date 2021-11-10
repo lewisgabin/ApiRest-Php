@@ -11,7 +11,6 @@ Esta es la ruata **/registro** y debe mandar los datos de nombre, apellido y ema
 
 ### Usuario en caso de no poder registrarce 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 ### id_cliente
 ```
 c2ac07cy3745jJD7ld93jdgfg5fs..uwGBbehPG5IcyTsIipXy5GMp757xR2
@@ -29,9 +28,7 @@ _Herramientas usadas_
 * [PHP](https://www.php.net/) - Leguaje de programacion
 * [POSTMAN](https://www.postman.com/) - Manejador de peticiones htpp
 
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+## Autor ✒️
 
 * **Lewis Gabin** -
 
